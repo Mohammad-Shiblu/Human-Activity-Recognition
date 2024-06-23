@@ -1,9 +1,9 @@
 <<<<<<< HEAD
-# Project Jarvis (Smart Assembly): Human Activity Understanding for Enhanced Assembly Tools
+Human Activity Understanding for Enhanced Assembly Tools
 
 ## Description
 
-This project, titled [Your Project Title], is a comprehensive exploration and implementation of human activity understanding for enhanced furniture assembly tools. It combines state-of-the-art techniques in computer vision and machine learning to address complex challenges in the domain of assembly processes.
+This project is a comprehensive exploration and implementation of human activity understanding for enhanced furniture assembly tools. It combines state-of-the-art techniques in computer vision and machine learning to address complex challenges in the domain of assembly processes.
 
 ### Motivation & Purpose
 
@@ -24,11 +24,3 @@ At its core, this project aims to understand and analyze human activity within a
 
 Large Language Model (LLM) instructions are seamlessly integrated into our pipeline to enable real-time decision-making and control of assembly tools based on human activity.
 
-### Visualization & Demo
-
-[GroupC_presentation_final.pdf](https://github.com/asifmustafa87/project-jarvis/files/12566797/GroupC_presentation_final.pdf)
-
-https://github.com/asifmustafa87/project-jarvis/assets/91586571/b7e6b340-e98b-43a5-8b38-d998b569af68
-=======
-# Human-Activity-Recognition
->>>>>>> d899d3d22efd6529b6279fc48a4afe6149cf317a
